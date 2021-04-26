@@ -9,4 +9,4 @@
  * to render template: from flask import render_template
  * to use url : from flask import url_for
  * using url in html :
-    *   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}" />
+    *   link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}"
